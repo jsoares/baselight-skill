@@ -1,6 +1,6 @@
 # baselight-skill
 
-Am [Agent Skill](https://agentskills.io/) that provides access to [Baselight](https://baselight.ai) — a data platform with thousands of queryable public datasets covering crypto/blockchain, finance, demographics, climate, healthcare, sports, and more.
+An [Agent Skill](https://agentskills.io/) that provides access to [Baselight](https://baselight.ai) — a data platform with thousands of queryable public datasets covering crypto/blockchain, finance, demographics, climate, healthcare, sports, and more.
 
 ## What it does
 
