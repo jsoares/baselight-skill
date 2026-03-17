@@ -1,6 +1,6 @@
-# baselight-skill
+# Baselight skills
 
-An [Agent Skill](https://agentskills.io/) that provides access to [Baselight](https://baselight.ai) — a data platform with thousands of queryable public datasets covering crypto/blockchain, finance, demographics, climate, healthcare, sports, and more.
+[Agent Skills](https://agentskills.io/) that provides access to [Baselight](https://baselight.ai) — a data platform with thousands of queryable public datasets covering crypto/blockchain, finance, demographics, climate, healthcare, sports, and more.
 
 ## What it does
 
@@ -16,7 +16,7 @@ Example triggers:
 ### npx installation
 
 ```
-npx skills add jsoares/baselight-skill --skill baselight -g
+npx skills add baselightdb/skills --skill baselight -g
 ```
 
 ### Manual installation
